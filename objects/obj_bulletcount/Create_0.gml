@@ -1,0 +1,1 @@
+global.bullets = 3;
